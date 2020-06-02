@@ -12,7 +12,7 @@
     
 [Kanban](https://www.atlassian.com/agile/kanban) is a scheduling system for lean manufacturing and just-in-time manufacturing. Like Scrum, Kanban is a process designed to help teams work together more effectively.
     
-[Kanban board](https://www.atlassian.com/agile/kanban/boards) is an agile project management tool designed to help visualize work, limit work-in-progress, and maximize efficiency (or flow). Kanban boards use cards, columns, and continuous improvement to help technology and service teams commit to the right amount of work, and get it done!
+[Kanban board](https://www.atlassian.com/agile/kanban/boards) is an agile project management tool designed to help visualize work, limit work-in-progress, and maximize efficiency (or flow). Kanban boards use cards, columns, and continuous improvement to help technology and service teams commit to the right amount of work, and get it done.
     
 [Dynamic System Development Model, (DSDM)](https://www.productplan.com/glossary/dynamic-systems-development-method/) is an agile framework that addresses the entire project lifecycle and its impact on the business. Like the broader agile philosophy, DSDM is an iterative approach to software development, and this framework explicitly states “any project must be aligned to clearly defined strategic goals and focus upon early deliver of real benefits to the business.” The framework is built on four principles: feasibility and business study, functional model and prototype iteration, design and build iteration, and implementation.
     
