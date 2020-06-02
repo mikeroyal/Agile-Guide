@@ -1,6 +1,10 @@
-# Agile-Guide
+<h1 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/83560577-4caddb00-a4cb-11ea-865f-74e21c014bbb.png">
+  <br />
+ Agile Guide
+</h1>
 
-## A guide that covers Agile Methodologies, Disciplines, and Certifications that make managing development Teams more efficiently and effectively. 
+## A guide that covers Agile Methodologies, Disciplines, and Certifications that make managing development Teams more efficient. 
 
 [Scrum](https://www.atlassian.com/agile/scrum) is a framework within which people can address complex adaptive problems, while productively and creatively delivering products of the highest possible value.
     
