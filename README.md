@@ -4,7 +4,50 @@
  Agile Guide
 </h1>
 
-## A guide that covers Agile Methodologies, Disciplines, and Certifications that make managing development Teams more efficient. 
+#### A guide that covers Agile Methodologies, Disciplines, and Certifications that make you better and more efficient at managing development Teams. 
+
+## Resources
+
+[What is Agile Development? - Azure DevOps](https://docs.microsoft.com/en-us/azure/devops/learn/agile/what-is-agile-development)
+
+[What is Agile? - Atlassian](https://www.atlassian.com/agile)
+
+[What is Agile Software Development? - Agile Alliance](https://www.agilealliance.org/agile101/)
+
+[Agile Development from Coursera](https://www.coursera.org/specializations/agile-development)
+
+[Learn Agile project management from Udemy](https://www.udemy.com/topic/agile/)
+
+[Learn Agile with Online Courses from edX](https://www.edx.org/learn/agile)
+
+[Online Agile Classes from Skillshare](https://www.skillshare.com/browse/agile)
+
+[Agile Programming Training & Certification from Learning Tree](https://www.learningtree.com/industry-certifications/?filter=agile)
+
+[Project Management Professional (PMP)](https://www.pmi.org/certifications/types/project-management-pmp) certification tells employers, peers, and the world you know what you’re doing in project management.
+
+[Program Management Professional (PgMP)](https://www.pmi.org/certifications/types/program-management-pgmp) certification is a visible sign of your advanced experience and skill and gives you a distinct advantage in employment and promotion.
+
+[Portfolio Management Professional (PfMP)](https://www.pmi.org/certifications/types/portfolio-management-pfmp) certification signifies your advanced competency in the coordinated management of one or more portfolios to achieve strategic objectives. 
+
+[PMI Agile Certified Practitioner (PMI-ACP)](https://www.pmi.org/certifications/types/agile-acp) certification formally recognizes your knowledge of agile principles and your skill with agile techniques. It shows your peers, employers, and stakeholders that your agile knowledge runs deep.
+
+[PMI Risk Management Professional (PMI-RMP)](https://www.pmi.org/certifications/types/risk-management-rmp) certification highlights your ability to identify and assess project risks, mitigate threats and capitalize on opportunities. In this capacity, you enhance/protect the needs of your organization.
+
+[Disciplined Agilist (DA)](https://disciplinedagileconsortium.org/DA) certification indicates to colleagues and employers that you have taken some initial steps to learn about Disciplined Agile. 
+
+[Certified Disciplined Agilist (CDA)](https://disciplinedagileconsortium.org/CDA) certification indicates to colleagues and employers that you have fundamental knowledge about Disciplined Agile strategies and that you are eager to learn and increase your skills and abilities as a software professional.
+
+[Certified Disciplined Agile Practitioner (CDAP)](https://disciplinedagileconsortium.org/CDAP) certification indicates that you are experienced at agile solution delivery and are on your way to becoming a generalizing specialist. By having the potential to be a “junior coach” under the guidance of a senior coach.
+
+[Disciplined Agile Lean Scrum Master (DALSM)](https://disciplinedagileconsortium.org/DA-Lean-Scrum-Master) certification provides tools and strategies to help you lead an agile team, influence people, remove impediments and to tailor your team’s way of working (WoW) so it matches and reflects the unique situation of your unique team. 
+
+[Certified Disciplined Agile Coach (CDAC)](https://disciplinedagileconsortium.org/CDAC) certification indicates that you are a trusted expert with significant proficiency with Disciplined Agile. You can coach other people in disciplined agile strategies and advise organizations in the adoption and tailoring of Disciplined Agile.
+
+[Certified Disciplined Agile Instructor (CDAI)](https://disciplinedagileconsortium.org/CDAI) certification indicates being a trusted expert with proficiency in Disciplined Agile.
+
+
+## Agile Methodologies & Disciplines
 
 [Scrum](https://www.atlassian.com/agile/scrum) is a framework within which people can address complex adaptive problems, while productively and creatively delivering products of the highest possible value.
     
@@ -35,27 +78,3 @@
 [Kanplan](https://www.atlassian.com/agile/kanban/kanplan) is a mixed methodology for practicing agile software development. Like scrumban, it combines features from both scrum and kanban. Kanplan is ideal for teams who want the ability to backlog groom, but don't want to work in sprints.
     
 [RAD(Rapid Application Development)](https://www.productplan.com/glossary/rapid-application-development/)  is an agile framework focused primarily on rapid prototyping of software products, frequently iterating based on feedback, and continuously releasing updated versions of those products to the market.
-
-### Certifications
-
-[Project Management Professional (PMP)](https://www.pmi.org/certifications/types/project-management-pmp) certification tells employers, peers, and the world you know what you’re doing in project management.
-
-[Program Management Professional (PgMP)](https://www.pmi.org/certifications/types/program-management-pgmp) is a visible sign of your advanced experience and skill and gives you a distinct advantage in employment and promotion.
-
-[Portfolio Management Professional (PfMP)](https://www.pmi.org/certifications/types/portfolio-management-pfmp) signifies your advanced competency in the coordinated management of one or more portfolios to achieve strategic objectives. 
-
-[PMI Agile Certified Practitioner (PMI-ACP)](https://www.pmi.org/certifications/types/agile-acp) formally recognizes your knowledge of agile principles and your skill with agile techniques. Show your peers, employers, and stakeholders that your agile knowledge runs deep.
-
-[PMI Risk Management Professional (PMI-RMP)](https://www.pmi.org/certifications/types/risk-management-rmp) highlights your ability to identify and assess project risks, mitigate threats and capitalize on opportunities. In this capacity, you enhance and protect the needs of your organization.
-
-[Disciplined Agilist (DA)](https://disciplinedagileconsortium.org/DA) indicates to colleagues and employers that you have taken some initial steps to learn about Disciplined Agile. 
-
-[Certified Disciplined Agilist (CDA)](https://disciplinedagileconsortium.org/CDA) indicates to colleagues and employers that you have fundamental knowledge about Disciplined Agile strategies and that you are eager to learn and increase your skills and abilities as a software professional.
-
-[Certified Disciplined Agile Practitioner (CDAP)](https://disciplinedagileconsortium.org/CDAP) indicates that you are experienced at agile solution delivery and are on your way to becoming a generalizing specialist. You have the potential to be a “junior coach” under the guidance of a senior coach.
-
-[Disciplined Agile Lean Scrum Master (DALSM)](https://disciplinedagileconsortium.org/DA-Lean-Scrum-Master) training and certification provides tools and strategies to help you lead an agile team, influence people, remove impediments and to tailor your team’s way of working (WoW) so it matches and reflects the unique situation of your unique team. 
-
-[Certified Disciplined Agile Coach (CDAC)](https://disciplinedagileconsortium.org/CDAC) indicates that you are a trusted expert with significant proficiency with Disciplined Agile. You can coach other people in disciplined agile strategies and advise organizations in the adoption and tailoring of Disciplined Agile.
-
-[Certified Disciplined Agile Instructor (CDAI)](https://disciplinedagileconsortium.org/CDAI) designation indicates being a trusted expert with proficiency in Disciplined Agile. Having an in-depth knowledge, and better yet experience, in Disciplined Agile.
