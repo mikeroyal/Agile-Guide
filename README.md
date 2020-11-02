@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/83560577-4caddb00-a4cb-11ea-865f-74e21c014bbb.png">
+ <img src="https://user-images.githubusercontent.com/45159366/97920576-80a55a80-1d0e-11eb-87e5-7f8b37e34342.png">
   <br />
  Agile Guide
 </h1>
