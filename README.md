@@ -1,12 +1,19 @@
 <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/97920576-80a55a80-1d0e-11eb-87e5-7f8b37e34342.png">
+ <img src="https://user-images.githubusercontent.com/45159366/117586727-ca606a80-b0ce-11eb-810b-cf634ae09cae.png">
   <br />
  Agile Guide
 </h1>
 
 #### A guide that covers Agile Methodologies, Disciplines, and Certifications that make you better and more efficient at managing development Teams. 
 
-## Resources
+**Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/117586728-cb919780-b0ce-11eb-91cb-7ec069d84f65.png">
+  <br />
+</p>
+
+## Agile Learning Resources
 
 [What is Agile Development? - Azure DevOps](https://docs.microsoft.com/en-us/azure/devops/learn/agile/what-is-agile-development)
 
@@ -78,3 +85,13 @@
 [Kanplan](https://www.atlassian.com/agile/kanban/kanplan) is a mixed methodology for practicing agile software development. Like scrumban, it combines features from both scrum and kanban. Kanplan is ideal for teams who want the ability to backlog groom, but don't want to work in sprints.
     
 [RAD(Rapid Application Development)](https://www.productplan.com/glossary/rapid-application-development/)  is an agile framework focused primarily on rapid prototyping of software products, frequently iterating based on feedback, and continuously releasing updated versions of those products to the market.
+
+
+## Contribute
+
+- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Agile-Guide/pulls).
+
+
+## License
+
+Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
