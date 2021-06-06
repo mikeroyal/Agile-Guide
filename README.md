@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/117586727-ca606a80-b0ce-11eb-810b-cf634ae09cae.png">
+ <img src="https://user-images.githubusercontent.com/45159366/120939066-e0138080-c6ca-11eb-97fc-1087e4f20ee0.png">
   <br />
  Agile Guide
 </h1>
@@ -9,7 +9,7 @@
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/117586728-cb919780-b0ce-11eb-91cb-7ec069d84f65.png">
+ <img src="https://user-images.githubusercontent.com/45159366/120939214-caeb2180-c6cb-11eb-96f5-5dc63140eedf.png">
   <br />
 </p>
 
